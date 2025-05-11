@@ -14,3 +14,9 @@
 
 
 <img src="https://giphy.com/gifs/cat-kisses-hugs-MDJ9IbxxvDUQM" width="300"/>
+
+
+### 🚧 Currently working on:
+- 🧩 Minecraft Fabric Mods
+- 🤖 Discord Bots
+- 🖥️ Windows Tweaker App
