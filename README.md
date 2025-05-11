@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hey!+I'm+SwedishCoder;I'm+a+dev+who+loves+Java%2C+JS+%26+Mods;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swedish_Coder&show_icons=true&theme=tokyonight)
+
 
 
 ### 💻 Languages & Tools
