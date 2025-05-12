@@ -20,3 +20,9 @@
 - 🧩 Minecraft Fabric Mods
 - 🤖 Discord Bots
 - 🖥️ Windows Tweaker App
+
+## 📫 Connect With Me
+- Discord: `monse5088`
+
+
+<p align="center">Thanks for visiting! 🚀</p>
