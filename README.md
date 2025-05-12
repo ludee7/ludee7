@@ -13,7 +13,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE1czBzZHJyNmZydWxueDUwdmxtZHZhaDhheXF1NXVtcWxqd3RjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="300"/>
+<img src="file:///C:/Users/ludde/Downloads/istockphoto-1442179368-612x612.webp" width="300"/>
 
 
 ### 🚧 Currently working on:
