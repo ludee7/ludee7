@@ -16,13 +16,10 @@
 <img src="istockphoto-1442179368-612x612.png" width="300"/>
 
 
-### 🚧 Currently working on:
-- 🧩 Minecraft Fabric Mods
-- 🤖 Discord Bots
-- 🖥️ Windows Tweaker App
+
 
 ## 📫 Connect With Me
 - Discord: `monse5088`
 
 
-<p align="center">Thanks for visiting! 🚀</p>
+
