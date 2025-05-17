@@ -11,7 +11,7 @@
 
 
 ##  Connect With Me
-- Discord: `.daddu699`
+- Discord: `.daddy699`
 
 
 
