@@ -1,4 +1,4 @@
-# hey hey hey!
+# Hello there
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
@@ -11,7 +11,7 @@
 
 
 ##  Connect With Me
-- Discord: `monse5088`
+- Discord: `.daddu699`
 
 
 
