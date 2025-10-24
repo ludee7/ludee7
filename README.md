@@ -15,4 +15,4 @@
 
 
 
-My project are usually not finished! // done
+My projects are usually not finished! // done
