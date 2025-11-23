@@ -11,7 +11,7 @@
 
 
 ##  Connect With Me
-- Discord: `bullebeng69`
+- Discord: `.luddenc`
 
 
 
